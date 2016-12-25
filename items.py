@@ -3,6 +3,7 @@ pkg_dnf = {
     "automake": {},
     "bison": {},
     "byacc": {},
+    "clang": {},
     "cscope": {},
     "ctags": {},
     "diffstat": {},
